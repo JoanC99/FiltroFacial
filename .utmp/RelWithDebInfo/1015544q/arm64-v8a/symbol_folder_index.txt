@@ -1,0 +1,1 @@
+C:\Users\joanc\Documents\GitHub\FacialFilter\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\1015544q\obj\arm64-v8a
